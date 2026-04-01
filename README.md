@@ -48,11 +48,5 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 👨‍🎓 Author
 **Arulmani S**
-- LinkedIn: [Your LinkedIn URL]
-- GitHub: [Your GitHub URL]
-- Instagram: [Your Instagram URL]
-
----
-
 
 ⭐️ Star this repository if you find it helpful!
